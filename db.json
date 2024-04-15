@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "no": "1",
+      "river": "Narmada",
+      "length": "1350",
+      "area": "1500",
+      "id": 1
+    },
+    {
+      "no": "2",
+      "river": "Godavari",
+      "length": "1450",
+      "area": "032314",
+      "id": 2
+    },
+    {
+      "no": "3",
+      "river": "Ganga",
+      "length": "2600",
+      "area": "2000",
+      "id": 3
+    }
+  ]
+}
